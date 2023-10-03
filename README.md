@@ -1,6 +1,6 @@
 # Olá, mundo! :earth_americas:
 
-Meu nome é Yara, sou uma pianista e administradora em transição de carreira. Apaixonada por códigos, estou me especializando em desenvolvimento backend em JavaScript e, além disso, estou no caminho para me formar em Análise e Desenvolvimento de Sistemas, buscando unir minha criatividade musical à minha habilidade em programação para criar soluções únicas e inovadoras.
+Meu nome é Yara, sou uma pianista e administradora em transição de carreira. Apaixonada por códigos, estou me especializando em desenvolvimento backend em JavaScript e, além disso, estou no caminho para me formar em Análise e Desenvolvimento de Sistemas, buscando casar minha criatividade musical com minha habilidade em programação para criar e inovar.
 
 ### Você me encontra em:
 
